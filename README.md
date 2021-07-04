@@ -1,10 +1,11 @@
 ### Hey, I'm Pedro Castilhos da Rosa! :metal:
 
-🇧🇷 I'm from Pelotas, Brazil 
-:closed_book: Programming student
-:computer: Trainee TecnoStart
+🇧🇷 I'm from Pelotas, Brazil <br>
+:closed_book: Programming student <br>
+:computer: Trainee TecnoStart <br>
 
- My expectations for the TecnoStart project are to learn a lot of programming and be prepared to enter the job market. :nerd_face:
+ My expectations for the [TecnoStart](https://github.com/tecno-start) project are to learn a lot of programming and be prepared to enter the job market. :nerd_face:
+ 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Castilhos-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-c-862277125/)](https://www.linkedin.com/in/pedro-c-862277125/)
 [![Gmail Badge](https://img.shields.io/badge/-pedrocastilhosdev@gmail.com-AD1F1C?style=flat-square&logo=Gmail&logoColor=white&link=pedrocastilhosdev@gmail.com)](pedrocastilhosdev@gmail.com)
