@@ -1,26 +1,53 @@
-### Hey, I'm Pedro Castilhos da Rosa! :metal:
+
+<img align="right" height="590em" src="https://raw.githubusercontent.com/PedroCastilhos/cracha/main/card.png"/>
+<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pedro Castilhos</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pedrocastilhos&color=yellow" alt="Profile views" /> </p>
 
 🇧🇷 I'm from Pelotas, Brazil <br>
 :closed_book: Programming student <br>
 :computer: Trainee TecnoStart <br>
 
- My expectations for the [TecnoStart](https://github.com/tecno-start) project are to learn a lot of programming and be prepared to enter the job market. :nerd_face:
- 
+<br>
+- 💬 Ask me about **JavaScript, HTML, CSS, React**
+<br><br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Castilhos-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-c-862277125/)](https://www.linkedin.com/in/pedro-c-862277125/)
-[![Gmail Badge](https://img.shields.io/badge/-pedrocastilhosdev@gmail.com-AD1F1C?style=flat-square&logo=Gmail&logoColor=white&link=pedrocastilhosdev@gmail.com)](pedrocastilhosdev@gmail.com)
+## 🛠 &nbsp;My skills
 
-<h3 align="center">Skills:</h3>
-<div align="center">
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<a href="https://nodejs.org" target="_blank">
-   
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=PedroCastilhos&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCastilhos&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
-</div>
 
-<!-- Futuras habilidades
+<br><br>
 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> <a href="https://www.mysql.com/" target="_blank"> 
+## 🧔 &nbsp;Social Links
 
--->
+<p align="left" style="background:yellow">
+<a href="https://twitter.com/pedrocstlhs" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-pedrocstlhs-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+ <a href="https://instagram.com/pedrocstlhs" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-pedrocstlhs-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="www.linkedin.com/in/pedrocastilhos" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Pedro Castilhos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.youtube.com/channel/UCRyPWUDr73BJfKiemoAUZBA" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Pedro Castilhos-05122A?style=flat&logo=youtube" alt="youtube"/>
+</a>
+</p>
+
+
