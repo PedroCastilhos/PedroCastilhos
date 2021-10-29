@@ -5,10 +5,10 @@
 
 🇧🇷 I'm from Pelotas, Brazil <br>
 :closed_book: Programming student <br>
-:computer: Trainee TecnoStart <br>
+
 
 <br>
-- 💬 Ask me about **JavaScript, HTML, CSS, React**
+
 <br><br>
 
 ## 🛠 &nbsp;My skills
