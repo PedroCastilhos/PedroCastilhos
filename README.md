@@ -1,7 +1,7 @@
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/PedroCastilhos/cracha/main/card.png"/>
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pedro Castilhos</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pedrocastilhos&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pedrocastilhos&color=red" alt="Profile views" /> </p>
 
 🇧🇷 I'm from Pelotas, Brazil <br>
 :closed_book: Programming student <br>
