@@ -42,7 +42,7 @@
  <a href="https://instagram.com/pedrocstlhs" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-pedrocstlhs-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="www.linkedin.com/in/pedrocastilhos" target="_blank">
+<a href="https://www.linkedin.com/in/pedro-c-862277125/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Pedro Castilhos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.youtube.com/channel/UCRyPWUDr73BJfKiemoAUZBA" target="_blank">
