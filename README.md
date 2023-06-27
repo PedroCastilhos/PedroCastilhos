@@ -3,10 +3,10 @@
 <h1 align="left">Hi dear, I'm Pedro Castilhos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pedrocastilhos&color=red" alt="Profile views" /> </p>
 
-:brazil: I'm from Pelotas, Brazil <br>
-:closed_book: Programming student 
+🌎 I'm from Pelotas, Brazil <br>
+:closed_book: Programming student - Analysis and Systems Development
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;My skills
 
@@ -19,7 +19,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br><br>
+<br>
 
 ## 🧔 &nbsp;Social Links
 
