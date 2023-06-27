@@ -4,10 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pedrocastilhos&color=red" alt="Profile views" /> </p>
 
 🇧🇷 I'm from Pelotas, Brazil <br>
-:closed_book: Programming student <br>
-
-
-<br>
+:closed_book: Programming student 
 
 <br><br>
 
@@ -22,7 +19,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br><br><br><br><br><br>
+<br><br>
 
 ## 🧔 &nbsp;Social Links
 
