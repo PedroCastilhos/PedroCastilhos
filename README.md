@@ -3,7 +3,7 @@
 <h1 align="left">Hi dear, I'm Pedro Castilhos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pedrocastilhos&color=red" alt="Profile views" /> </p>
 
-🇧🇷 I'm from Pelotas, Brazil <br>
+:brazil: I'm from Pelotas, Brazil <br>
 :closed_book: Programming student 
 
 <br><br>
