@@ -1,6 +1,6 @@
 
 
-<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pedro Castilhos</h1>
+<h1 align="left">Hi dear, I'm Pedro Castilhos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pedrocastilhos&color=red" alt="Profile views" /> </p>
 
 🇧🇷 I'm from Pelotas, Brazil <br>
