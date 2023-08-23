@@ -40,6 +40,9 @@
 <a href="https://www.youtube.com/channel/UCRyPWUDr73BJfKiemoAUZBA" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Pedro Castilhos-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
+  <a href="https://open.spotify.com/user/12151418023?si=dd4bf2bb04944bc4" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Pedro Castilhos-05122A?style=flat&logo=spotify" alt="spotify"/>
+</a>
 </p>
 
 <br>
